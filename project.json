@@ -1,0 +1,11 @@
+{
+    "project_name": "security",
+    "project_version": "1.0.0",
+    "project_url": "https://github.com/vbrawl/security_php",
+    "project_requirements": {},
+    "project_library_directory": "pm_library",
+    "project_input_resource_directory": "resources",
+    "project_output_resource_directory": "pm_resources",
+    "project_relocation_config": "relocation.php",
+    "project_javascript_relocation_config": "relocation.js"
+}
